@@ -1,12 +1,14 @@
 <h1>Consultor de informacion: Peliculas de StarWars.<h1/>
 <p>Uso de herramientas como:<p/>
   <ul>
-    <il>Consulta por API</il>
-    <il>Manipulacion de Json</il>
-    <il>Postman</il>
-    <il>POO</il>
-    <il>Protocolo HTTP</il>
-    <il>Libreria Gson</il>
+    <li>Consulta por API</li>
+    <li>Manipulacion de Json</li>
+    <li>Postman</li>
+    <li>POO</li>
+    <li>Protocolo HTTP</li>
+    <li>Libreria Gson</li>
   <ul/>
 
-<img src="Challenge1" alt="img"><img/>
+<img src="Challenge1.pgn" alt="img"><img/>
+<img src="Challenge2.pgn" alt="img"><img/>
+<img src="Challenge3.pgn" alt="img"><img/>
