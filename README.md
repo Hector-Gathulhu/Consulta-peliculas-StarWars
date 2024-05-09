@@ -1,5 +1,6 @@
 <h1>Consultor de informacion: Peliculas de StarWars.<h1/>
 <p style="font-size:50%;">Este proyecto aborda:<p/>
+<p style="font-size:160%;">This is a paragraph.</p>
   <ul style="font-size:50%;">
     <li>Consulta por API</li>
     <li>Manipulacion de Json</li>
