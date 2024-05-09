@@ -9,6 +9,6 @@
     <li>Libreria Gson</li>
   <ul/>
 
-<img src="Challenge1.pgn" alt="img"><img/>
-<img src="Challenge2.pgn" alt="img"><img/>
-<img src="Challenge3.pgn" alt="img"><img/>
+<img src="Challenge1.png" alt="img"><img/>
+<img src="Challenge2.png" alt="img"><img/>
+<img src="Challenge3.png" alt="img"><img/>
