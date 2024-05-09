@@ -1,12 +1,13 @@
 <h1>Consultor de informacion: Peliculas de StarWars.<h1/>
-<p>Uso de herramientas como:<p/>
-  <ul>
+<p style="font-size:10px;">Este proyecto aborda:<p/>
+  <ul style="font-size:10px;">
     <li>Consulta por API</li>
     <li>Manipulacion de Json</li>
     <li>Postman</li>
     <li>POO</li>
     <li>Protocolo HTTP</li>
     <li>Libreria Gson</li>
+    <li>Escritura de archivos</li>
   <ul/>
 
 <img src="Challenge1.png" alt="img"><img/>
